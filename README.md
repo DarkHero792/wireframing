@@ -15,7 +15,9 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 **- High-Fidelity Wireframes:** More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
-**Low-fidelity wireframes** are typically used in the early stages of the design process to explore and communicate basic structure, layout, and functionality without getting distracted by visual details. They help in quickly iterating ideas and gathering feedback. **High-fidelity wireframes** are used later in the process when the structure is established, allowing designers to focus on finer layout details, user interactions, and visual alignment with the final product. They are often used for stakeholder presentations, usability testing, and as a bridge to development.
+**Low-fidelity wireframes** are typically used in the early stages of the design process to explore and communicate basic structure, layout, and functionality without getting distracted by visual details. They help in quickly iterating ideas and gathering feedback.
+
+**High-fidelity wireframes** are used later in the process when the structure is established, allowing designers to focus on finer layout details, user interactions, and visual alignment with the final product. They are often used for stakeholder presentations, usability testing, and as a bridge to development.
 
 # Wireframes Example
 
